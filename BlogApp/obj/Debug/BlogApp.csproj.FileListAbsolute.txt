@@ -1,0 +1,23 @@
+c:\users\shamim\documents\visual studio 2012\Projects\BlogApp\BlogApp\bin\BlogApp.dll
+c:\users\shamim\documents\visual studio 2012\Projects\BlogApp\BlogApp\bin\BlogApp.pdb
+c:\users\shamim\documents\visual studio 2012\Projects\BlogApp\BlogApp\obj\Debug\BlogApp.csprojResolveAssemblyReference.cache
+c:\users\shamim\documents\visual studio 2012\Projects\BlogApp\BlogApp\obj\Debug\BlogApp.dll
+c:\users\shamim\documents\visual studio 2012\Projects\BlogApp\BlogApp\obj\Debug\BlogApp.pdb
+G:\Sochi\BlogApp\BlogApp\bin\BlogApp.dll.config
+G:\Sochi\BlogApp\BlogApp\bin\BlogApp.dll
+G:\Sochi\BlogApp\BlogApp\bin\BlogApp.pdb
+G:\Sochi\BlogApp\BlogApp\obj\Debug\BlogApp.csprojResolveAssemblyReference.cache
+G:\Sochi\BlogApp\BlogApp\obj\Debug\BlogApp.dll
+G:\Sochi\BlogApp\BlogApp\obj\Debug\BlogApp.pdb
+C:\Users\Biswajit\Desktop\Sochi\BlogApp\BlogApp\bin\BlogApp.dll.config
+C:\Users\Biswajit\Desktop\Sochi\BlogApp\BlogApp\bin\BlogApp.dll
+C:\Users\Biswajit\Desktop\Sochi\BlogApp\BlogApp\bin\BlogApp.pdb
+C:\Users\Biswajit\Desktop\Sochi\BlogApp\BlogApp\obj\Debug\BlogApp.csprojResolveAssemblyReference.cache
+C:\Users\Biswajit\Desktop\Sochi\BlogApp\BlogApp\obj\Debug\BlogApp.dll
+C:\Users\Biswajit\Desktop\Sochi\BlogApp\BlogApp\obj\Debug\BlogApp.pdb
+C:\Users\PC21\Desktop\sourovv\BlogApp\BlogApp\bin\BlogApp.dll.config
+C:\Users\PC21\Desktop\sourovv\BlogApp\BlogApp\bin\BlogApp.dll
+C:\Users\PC21\Desktop\sourovv\BlogApp\BlogApp\bin\BlogApp.pdb
+C:\Users\PC21\Desktop\sourovv\BlogApp\BlogApp\obj\Debug\BlogApp.dll
+C:\Users\PC21\Desktop\sourovv\BlogApp\BlogApp\obj\Debug\BlogApp.pdb
+C:\Users\PC21\Desktop\sourovv\BlogApp\BlogApp\obj\Debug\BlogApp.csprojResolveAssemblyReference.cache
